@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Infouzi/Advanced-user-skeleton.git"
+    "url": "git+https://github.com/Infouzi/Express-Advanced-user-skeleton.git"
   },
   "keywords": [
     "Nodejs",
@@ -25,9 +25,9 @@
   "author": "Mohamed Fouzi Atamena",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Infouzi/Advanced-user-skeleton/issues"
+    "url": "https://github.com/Infouzi/Express-Advanced-user-skeleton/issues"
   },
-  "homepage": "https://github.com/Infouzi/Advanced-user-skeleton#readme",
+  "homepage": "https://github.com/Infouzi/Express-Advanced-user-skeleton#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "compression": "^1.7.4",
