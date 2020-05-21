@@ -213,7 +213,7 @@ Exemple:
 /*updateMyPassword can only by done by a logged in user, beause preceeded by "authcontroller.protect" middleware*/
 router.patch('/updateMyPassword', authController.protect, authController.updateMyPassword);
 /*getAllUsers can be accessible only for logged in user, and only the "admin" can have access to it*/
-router.get('/', authController.protect, authController.protect, restrictTo('admin'), userController.getAllUsers)
+router.get('/', authController.protect, authController.restrictTo('admin'), userController.getAllUsers)
 ```
 
 ## 6. Installation
