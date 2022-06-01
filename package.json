@@ -46,7 +46,7 @@
     "multer": "^1.4.2",
     "nodemailer": "^6.4.6",
     "pug": "^2.0.4",
-    "sharp": "^0.25.3",
+    "sharp": "^0.30.5",
     "validator": "^13.0.0",
     "xss-clean": "^0.1.1"
   },
